@@ -9,7 +9,7 @@ sudo apt update
 sudo apt upgrade
 
 #Clear the terminal
-#clear
+clear
 
 #Display current working directory
-ls 
+ls -l
